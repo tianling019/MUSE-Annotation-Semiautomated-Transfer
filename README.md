@@ -12,3 +12,5 @@ outline73.m is the MATLAB code for registration
 73ori.jpg is the semi-automated annotated MUSE image
 
 73manu.jpg is the manual annotated MUSE image
+
+More samples can be acquired by contacting the author @ bing.yu@marquette.edu
