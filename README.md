@@ -5,7 +5,7 @@ Matlab code and sample data for semi-automatic tumor annotation transfer from H&
 
 73no.jpg is the original (unannotated) H&E image
 
-73_forH&E.jpg is the original MUSE image, for registration
+73_forH&E.jpg is the original MUSE image, for registration (fixedPoints.mat, movingPoints.mat, and tform.mat are the metrics used for registration)
 
 outline73.m is the MATLAB code for registration
 
